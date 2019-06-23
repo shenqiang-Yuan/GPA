@@ -1,0 +1,207 @@
+comp_5_spatbn_1_s (256,) 2
+comp_2_conv_2_w (128, 128, 3, 3, 3) 3
+comp_2_spatbn_2_b (128,) 4
+comp_4_spatbn_1_s (256,) 5
+comp_7_spatbn_2_riv (512,) 6
+comp_7_spatbn_1_rm (512,) 7
+comp_4_spatbn_1_b (256,) 8
+shortcut_projection_6_spatbn_riv (512,) 9
+conv1_spatbn_relu_s (64,) 10
+comp_0_spatbn_1_s (64,) 11
+comp_0_conv_1_w (64, 64, 3, 3, 3) 12
+shortcut_projection_6_w (512, 256, 1, 1, 1) 13
+comp_5_spatbn_1_rm (256,) 14
+comp_6_spatbn_1_rm (512,) 15
+shortcut_projection_2_spatbn_s (128,) 16
+comp_4_spatbn_2_b (256,) 17
+comp_4_spatbn_2_s (256,) 18
+comp_2_spatbn_1_b (128,) 19
+comp_7_spatbn_2_b (512,) 20
+comp_3_conv_2_w (128, 128, 3, 3, 3) 21
+comp_2_spatbn_2_rm (128,) 22
+shortcut_projection_2_spatbn_riv (128,) 23
+comp_0_conv_2_w (64, 64, 3, 3, 3) 24
+comp_0_spatbn_2_riv (64,) 25
+comp_5_spatbn_2_rm (256,) 26
+comp_1_spatbn_1_riv (64,) 27
+comp_3_spatbn_2_s (128,) 28
+comp_4_spatbn_1_riv (256,) 29
+comp_6_spatbn_2_b (512,) 30
+comp_3_spatbn_1_b (128,) 31
+comp_3_spatbn_2_riv (128,) 32
+comp_1_spatbn_1_rm (64,) 33
+comp_0_spatbn_2_b (64,) 34
+comp_1_spatbn_2_b (64,) 35
+comp_0_spatbn_1_riv (64,) 36
+comp_6_conv_2_w (512, 512, 3, 3, 3) 37
+conv1_spatbn_relu_b (64,) 38
+shortcut_projection_4_spatbn_b (256,) 39
+comp_4_spatbn_2_riv (256,) 40
+comp_6_spatbn_2_s (512,) 41
+conv1_spatbn_relu_riv (64,) 42
+comp_1_conv_2_w (64, 64, 3, 3, 3) 43
+comp_0_spatbn_2_rm (64,) 44
+shortcut_projection_6_spatbn_s (512,) 45
+shortcut_projection_6_spatbn_rm (512,) 46
+comp_6_spatbn_1_riv (512,) 47
+comp_7_spatbn_2_s (512,) 48
+last_out_L400_w (400, 512) 49
+comp_3_spatbn_2_b (128,) 50
+comp_4_spatbn_2_rm (256,) 51
+shortcut_projection_4_spatbn_riv (256,) 52
+comp_6_spatbn_2_riv (512,) 53
+comp_1_spatbn_1_b (64,) 54
+comp_0_spatbn_1_rm (64,) 55
+comp_7_spatbn_1_b (512,) 56
+comp_1_spatbn_1_s (64,) 57
+shortcut_projection_4_w (256, 128, 1, 1, 1) 58
+comp_0_spatbn_1_b (64,) 59
+comp_2_spatbn_1_rm (128,) 60
+comp_2_conv_1_w (128, 64, 3, 3, 3) 61
+comp_5_spatbn_1_b (256,) 62
+comp_1_conv_1_w (64, 64, 3, 3, 3) 63
+comp_7_spatbn_1_s (512,) 64
+comp_4_spatbn_1_rm (256,) 65
+shortcut_projection_2_spatbn_rm (128,) 66
+comp_5_spatbn_2_riv (256,) 67
+comp_4_conv_1_w (256, 128, 3, 3, 3) 68
+comp_6_spatbn_1_b (512,) 69
+comp_2_spatbn_2_s (128,) 70
+comp_6_spatbn_1_s (512,) 71
+comp_5_conv_2_w (256, 256, 3, 3, 3) 72
+comp_7_conv_1_w (512, 512, 3, 3, 3) 73
+comp_6_spatbn_2_rm (512,) 74
+last_out_L400_b (400,) 75
+comp_1_spatbn_2_s (64,) 76
+shortcut_projection_4_spatbn_rm (256,) 77
+comp_1_spatbn_2_rm (64,) 78
+shortcut_projection_4_spatbn_s (256,) 79
+shortcut_projection_2_w (128, 64, 1, 1, 1) 80
+comp_7_conv_2_w (512, 512, 3, 3, 3) 81
+comp_3_spatbn_2_rm (128,) 82
+comp_6_conv_1_w (512, 256, 3, 3, 3) 83
+comp_1_spatbn_2_riv (64,) 84
+conv1_w (64, 3, 1, 7, 7) 85
+comp_3_conv_1_w (128, 128, 3, 3, 3) 86
+comp_5_conv_1_w (256, 256, 3, 3, 3) 87
+comp_3_spatbn_1_rm (128,) 88
+comp_2_spatbn_1_riv (128,) 89
+comp_3_spatbn_1_riv (128,) 90
+conv1_spatbn_relu_rm (64,) 91
+comp_2_spatbn_1_s (128,) 92
+comp_0_spatbn_2_s (64,) 93
+comp_5_spatbn_1_riv (256,) 94
+comp_7_spatbn_2_rm (512,) 95
+comp_7_spatbn_1_riv (512,) 96
+comp_2_spatbn_2_riv (128,) 97
+comp_4_conv_2_w (256, 256, 3, 3, 3) 98
+comp_3_spatbn_1_s (128,) 99
+comp_5_spatbn_2_b (256,) 100
+comp_5_spatbn_2_s (256,) 101
+shortcut_projection_6_spatbn_b (512,) 102
+
+
+
+
+conv1/kernel:0 (1, 7, 7, 3, 64) 1
+conv1_spatbn_relu/gamma:0 (64,) 2
+conv1_spatbn_relu/beta:0 (64,) 3
+conv1_spatbn_relu/moving_mean:0 (64,) 4
+conv1_spatbn_relu/moving_variance:0 (64,) 5
+comp_0_conv_1/kernel:0 (3, 3, 3, 64, 64) 6
+comp_0_spatbn_1/gamma:0 (64,) 7
+comp_0_spatbn_1/beta:0 (64,) 8
+comp_0_spatbn_1/moving_mean:0 (64,) 9
+comp_0_spatbn_1/moving_variance:0 (64,) 10
+comp_0_conv_2/kernel:0 (3, 3, 3, 64, 64) 11
+comp_0_spatbn_2/gamma:0 (64,) 12
+comp_0_spatbn_2/beta:0 (64,) 13
+comp_0_spatbn_2/moving_mean:0 (64,) 14
+comp_0_spatbn_2/moving_variance:0 (64,) 15
+comp_1_conv_1/kernel:0 (3, 3, 3, 64, 64) 16
+comp_1_spatbn_1/gamma:0 (64,) 17
+comp_1_spatbn_1/beta:0 (64,) 18
+comp_1_spatbn_1/moving_mean:0 (64,) 19
+comp_1_spatbn_1/moving_variance:0 (64,) 20
+comp_1_conv_2/kernel:0 (3, 3, 3, 64, 64) 21
+comp_1_spatbn_2/gamma:0 (64,) 22
+comp_1_spatbn_2/beta:0 (64,) 23
+comp_1_spatbn_2/moving_mean:0 (64,) 24
+comp_1_spatbn_2/moving_variance:0 (64,) 25
+comp_2_conv_1/kernel:0 (3, 3, 3, 64, 128) 26
+comp_2_spatbn_1/gamma:0 (128,) 27
+comp_2_spatbn_1/beta:0 (128,) 28
+comp_2_spatbn_1/moving_mean:0 (128,) 29
+comp_2_spatbn_1/moving_variance:0 (128,) 30
+comp_2_conv_2/kernel:0 (3, 3, 3, 128, 128) 31
+comp_2_spatbn_2/gamma:0 (128,) 32
+comp_2_spatbn_2/beta:0 (128,) 33
+comp_2_spatbn_2/moving_mean:0 (128,) 34
+comp_2_spatbn_2/moving_variance:0 (128,) 35
+shortcut_projection_2/kernel:0 (1, 1, 1, 64, 128) 36
+shortcut_projection_2_spatbn/gamma:0 (128,) 37
+shortcut_projection_2_spatbn/beta:0 (128,) 38
+shortcut_projection_2_spatbn/moving_mean:0 (128,) 39
+shortcut_projection_2_spatbn/moving_variance:0 (128,) 40
+comp_3_conv_1/kernel:0 (3, 3, 3, 128, 128) 41
+comp_3_spatbn_1/gamma:0 (128,) 42
+comp_3_spatbn_1/beta:0 (128,) 43
+comp_3_spatbn_1/moving_mean:0 (128,) 44
+comp_3_spatbn_1/moving_variance:0 (128,) 45
+comp_3_conv_2/kernel:0 (3, 3, 3, 128, 128) 46
+comp_3_spatbn_2/gamma:0 (128,) 47
+comp_3_spatbn_2/beta:0 (128,) 48
+comp_3_spatbn_2/moving_mean:0 (128,) 49
+comp_3_spatbn_2/moving_variance:0 (128,) 50
+comp_4_conv_1/kernel:0 (3, 3, 3, 128, 256) 51
+comp_4_spatbn_1/gamma:0 (256,) 52
+comp_4_spatbn_1/beta:0 (256,) 53
+comp_4_spatbn_1/moving_mean:0 (256,) 54
+comp_4_spatbn_1/moving_variance:0 (256,) 55
+comp_4_conv_2/kernel:0 (3, 3, 3, 256, 256) 56
+comp_4_spatbn_2/gamma:0 (256,) 57
+comp_4_spatbn_2/beta:0 (256,) 58
+comp_4_spatbn_2/moving_mean:0 (256,) 59
+comp_4_spatbn_2/moving_variance:0 (256,) 60
+shortcut_projection_4/kernel:0 (1, 1, 1, 128, 256) 61
+shortcut_projection_4_spatbn/gamma:0 (256,) 62
+shortcut_projection_4_spatbn/beta:0 (256,) 63
+shortcut_projection_4_spatbn/moving_mean:0 (256,) 64
+shortcut_projection_4_spatbn/moving_variance:0 (256,) 65
+comp_5_conv_1/kernel:0 (3, 3, 3, 256, 256) 66
+comp_5_spatbn_1/gamma:0 (256,) 67
+comp_5_spatbn_1/beta:0 (256,) 68
+comp_5_spatbn_1/moving_mean:0 (256,) 69
+comp_5_spatbn_1/moving_variance:0 (256,) 70
+comp_5_conv_2/kernel:0 (3, 3, 3, 256, 256) 71
+comp_5_spatbn_2/gamma:0 (256,) 72
+comp_5_spatbn_2/beta:0 (256,) 73
+comp_5_spatbn_2/moving_mean:0 (256,) 74
+comp_5_spatbn_2/moving_variance:0 (256,) 75
+comp_6_conv_1/kernel:0 (3, 3, 3, 256, 512) 76
+comp_6_spatbn_1/gamma:0 (512,) 77
+comp_6_spatbn_1/beta:0 (512,) 78
+comp_6_spatbn_1/moving_mean:0 (512,) 79
+comp_6_spatbn_1/moving_variance:0 (512,) 80
+comp_6_conv_2/kernel:0 (3, 3, 3, 512, 512) 81
+comp_6_spatbn_2/gamma:0 (512,) 82
+comp_6_spatbn_2/beta:0 (512,) 83
+comp_6_spatbn_2/moving_mean:0 (512,) 84
+comp_6_spatbn_2/moving_variance:0 (512,) 85
+shortcut_projection_6/kernel:0 (1, 1, 1, 256, 512) 86
+shortcut_projection_6_spatbn/gamma:0 (512,) 87
+shortcut_projection_6_spatbn/beta:0 (512,) 88
+shortcut_projection_6_spatbn/moving_mean:0 (512,) 89
+shortcut_projection_6_spatbn/moving_variance:0 (512,) 90
+comp_7_conv_1/kernel:0 (3, 3, 3, 512, 512) 91
+comp_7_spatbn_1/gamma:0 (512,) 92
+comp_7_spatbn_1/beta:0 (512,) 93
+comp_7_spatbn_1/moving_mean:0 (512,) 94
+comp_7_spatbn_1/moving_variance:0 (512,) 95
+comp_7_conv_2/kernel:0 (3, 3, 3, 512, 512) 96
+comp_7_spatbn_2/gamma:0 (512,) 97
+comp_7_spatbn_2/beta:0 (512,) 98
+comp_7_spatbn_2/moving_mean:0 (512,) 99
+comp_7_spatbn_2/moving_variance:0 (512,) 100
+last_out_L400/kernel:0 (512, 400) 101
+last_out_L400/bias:0 (400,) 102

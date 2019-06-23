@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+r2plus1d-18-backup/
+saved_models/
+logs/
+pretrained-models/
+model_graph/
 
 # C extensions
 *.so
@@ -20,6 +25,7 @@ parts/
 sdist/
 var/
 wheels/
+.idea/
 *.egg-info/
 .installed.cfg
 *.egg
